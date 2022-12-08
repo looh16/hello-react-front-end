@@ -1,15 +1,13 @@
-import React from "react";
-import Greeting from "./components/Greting";
+import React from 'react';
 import { Route, Routes } from 'react-router-dom';
+import Greeting from './components/Greting';
 
-const App = () => {
-  return (
-    <>
-      <Routes>
+const App = () => (
+  <>
+    <Routes>
       <Route path="/" element={<Greeting />} />
-      </Routes>
-    </>
-  );
-};
+    </Routes>
+  </>
+);
 
 export default App;

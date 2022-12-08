@@ -1,10 +1,10 @@
-import axios from "axios";
+import axios from 'axios';
 
-const GET_RANDOM_MESSAGE = "greeting/GET_RANDOM_MESSAGE";
+const GET_RANDOM_MESSAGE = 'greeting/GET_RANDOM_MESSAGE';
 const InitialState = [];
 
 export const fetchData = () => async (dispatch) => {
-  const result = await axios.get("http://localhost:3000/api/v1/messages");
+  const result = await axios.get('http://localhost:3000/api/v1/messages');
   return dispatch({ type: GET_RANDOM_MESSAGE, payload: result.data });
 };
 
