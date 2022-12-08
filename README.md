@@ -46,6 +46,7 @@ git clone https://github.com/looh16/hello-react-front-end
 ### Run project
 - cd hello-react-front-end
 - npm install
+- npm start
 
 
 ## 🛠 Link to Back-end <a name="built-with"></a>
