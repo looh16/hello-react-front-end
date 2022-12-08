@@ -10,9 +10,9 @@
 
 </div>
 
-# 📖 [hello-rails-back-end] <a name="about-project"></a>
+# 📖 [hello-react-front-end] <a name="about-project"></a>
 
-**[hello-rails-back-end]** is a basic project setup React FrontEnd
+**[hello-react-front-end]** is a basic project setup React FrontEnd
 
 ## 🛠 Built With <a name="built-with"></a>
 
