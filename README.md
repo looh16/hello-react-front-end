@@ -10,9 +10,9 @@
 
 </div>
 
-# 📖 [hello-rails-back-end] <a name="about-project"></a>
+# 📖 [hello-react-front-end] <a name="about-project"></a>
 
-**[hello-rails-back-end]** is a basic project setup React FrontEnd
+**[hello-react-front-end]** is a basic project setup React FrontEnd
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,6 +46,7 @@ git clone https://github.com/looh16/hello-react-front-end
 ### Run project
 - cd hello-react-front-end
 - npm install
+- npm start
 
 
 ## 🛠 Link to Back-end <a name="built-with"></a>
